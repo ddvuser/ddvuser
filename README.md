@@ -2,7 +2,6 @@
 - 👀 I’m interested in Front-end
 - 📫 How to reach me ... 
 https://steamcommunity.com/id/cameronhoff/
-https://www.linkedin.com/in/denis-doroshenko-477789203/
 
 
 <!---

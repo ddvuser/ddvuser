@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cameronhoff
-- 👀 I’m interested in Front-end
 - 📫 How to reach me ... 
 https://steamcommunity.com/id/cameronhoff/
 
